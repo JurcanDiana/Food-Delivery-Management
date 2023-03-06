@@ -1,0 +1,8 @@
+Order no.13 from: Tue Jun 21 09:49:15 EEST 2022
+Client ID: 2
+1. Peach Sabayon with Balsamic Peaches : 11
+2. Poached Sockeye Salmon with Mustard Herb Sauce : 99
+3. The Ultimate Bolognese Sauce : 52
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Total price: 162

@@ -1,0 +1,10 @@
+Orders between 10 and 13, regardless the date:
+
+Order ID: 8 Client ID: 4 Date And Time: Mon Jun 20 12:12:38 EEST 2022
+Order ID: 6 Client ID: 3 Date And Time: Mon Jun 20 12:12:09 EEST 2022
+Order ID: 4 Client ID: 2 Date And Time: Mon Jun 20 12:11:17 EEST 2022
+Order ID: 2 Client ID: 2 Date And Time: Mon Jun 20 12:10:58 EEST 2022
+Order ID: 9 Client ID: 4 Date And Time: Mon Jun 20 12:12:45 EEST 2022
+Order ID: 7 Client ID: 4 Date And Time: Mon Jun 20 12:12:35 EEST 2022
+Order ID: 5 Client ID: 2 Date And Time: Mon Jun 20 12:11:25 EEST 2022
+Order ID: 3 Client ID: 2 Date And Time: Mon Jun 20 12:11:05 EEST 2022

@@ -1,0 +1,32 @@
+Products ordered more than 1 times so far:
+
+Name: Sweet and Sour Pickles  Price: 12
+Name: Grilled Chicken Moroccan Style  Price: 63
+Name: Aunt Tom's Italian Cream Cake  Price: 65
+Name: Savory Streusel  Price: 81
+Name: Poached Sockeye Salmon with Mustard Herb Sauce  Price: 99
+Name: Mustard Tarragon Butter  Price: 30
+Name: Wild Rice Dressing with Apples and Chestnuts  Price: 43
+Name: Festival  Price: 16
+Name: Braised Lamb Shanks Wrapped in Eggplant  Price: 100
+Name: Chicken Long Rice  Price: 42
+Name: Pork Chop Milanese with Arugula and Teardrop Tomatoes  Price: 29
+Name: Shakshuka  Price: 51
+Name: Phyllo Pecan Crisps  Price: 56
+Name: Blackberry and Plum Turnovers with Cardamom  Price: 69
+Name: Cream of Artichoke and Jerusalem Artichoke Soup  Price: 89
+Name: Apple-Sausage Stuffing  Price: 38
+Name: Peanut Butter Cheesecake with Peanut Brittle  Price: 94
+Name: Almond Tart with Stone Fruit and Lime Meringue  Price: 77
+Name: Three-Herb Pesto  Price: 69
+Name: Chocolate Date-Nut Baklava  Price: 82
+Name: Crostini  Price: 63
+Name: Cracked Black Pepper Pull-Apart Biscuits  Price: 45
+Name: Fragrant Indian Brittle  Price: 55
+Name: Mule's Hind Leg  Price: 36
+Name: Fennel Tsatsiki  Price: 36
+Name: Quick Plum Preserves  Price: 93
+Name: Cider-Braised Pheasant with Pearl Onions and Apples  Price: 93
+Name: Duck Confit with Oranges and Watercress  Price: 18
+Name: Streusel Sour Cream Coffeecakes  Price: 12
+Name: Green Beans with Olives  Price: 54

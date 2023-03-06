@@ -1,0 +1,8 @@
+Products ordered on 2022-06-20:
+
+Name: BaseProduct {title='Green Beans with Olives ', rating=3.125, calories=98, protein=2, fat=7, sodium=48, price=54}
+ (1 times)
+Name: BaseProduct {title='Poached Sockeye Salmon with Mustard Herb Sauce ', rating=4.375, calories=716, protein=46, fat=53, sodium=1238, price=99}
+ (3 times)
+Name: BaseProduct {title='Aunt Tom's Italian Cream Cake ', rating=5.0, calories=377, protein=3, fat=24, sodium=201, price=65}
+ (4 times)

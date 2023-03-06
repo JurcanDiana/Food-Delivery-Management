@@ -1,0 +1,7 @@
+Order no.3 from: Mon Jun 20 12:11:05 EEST 2022
+Client ID: 2
+1. Phyllo Pecan Crisps : 56
+2. Blackberry and Plum Turnovers with Cardamom : 69
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Total price: 125

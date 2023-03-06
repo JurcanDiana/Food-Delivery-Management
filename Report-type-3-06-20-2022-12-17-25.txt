@@ -1,0 +1,4 @@
+Clients who have ordered more than 3 times and the order value was higher than 50:
+
+ID: 4 Username: Client 3
+ID: 2 Username: Client 1

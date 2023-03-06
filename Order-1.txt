@@ -1,0 +1,8 @@
+Order no.1 from: Sun Jun 19 21:07:27 EEST 2022
+Client ID: 2
+1. Mustard Tarragon Butter : 30
+2. Festival : 16
+3. Grilled Chicken Moroccan Style : 63
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Total price: 109

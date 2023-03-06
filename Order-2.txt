@@ -1,0 +1,10 @@
+Order no.2 from: Mon Jun 20 12:10:58 EEST 2022
+Client ID: 2
+1. Savory Streusel : 81
+2. Braised Lamb Shanks Wrapped in Eggplant : 100
+3. Chicken Long Rice : 42
+4. Shakshuka : 51
+5. Pork Chop Milanese with Arugula and Teardrop Tomatoes : 29
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Total price: 303

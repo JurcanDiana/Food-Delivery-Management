@@ -1,0 +1,9 @@
+Order no.10 from: Mon Jun 20 12:15:05 EEST 2022
+Client ID: 3
+1. Aunt Tom's Italian Cream Cake : 65
+2. Aunt Tom's Italian Cream Cake : 65
+3. Aunt Tom's Italian Cream Cake : 65
+4. Aunt Tom's Italian Cream Cake : 65
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Total price: 260

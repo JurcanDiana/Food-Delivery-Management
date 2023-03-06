@@ -1,0 +1,8 @@
+Order no.9 from: Mon Jun 20 12:12:45 EEST 2022
+Client ID: 4
+1. Quick Plum Preserves : 93
+2. Cider-Braised Pheasant with Pearl Onions and Apples : 93
+3. Duck Confit with Oranges and Watercress : 18
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Total price: 204

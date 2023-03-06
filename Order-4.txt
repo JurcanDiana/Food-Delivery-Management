@@ -1,0 +1,10 @@
+Order no.4 from: Mon Jun 20 12:11:17 EEST 2022
+Client ID: 2
+1. Cream of Artichoke and Jerusalem Artichoke Soup : 89
+2. Almond Tart with Stone Fruit and Lime Meringue : 77
+3. Apple-Sausage Stuffing : 38
+4. Peanut Butter Cheesecake with Peanut Brittle : 94
+5. Three-Herb Pesto : 69
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Total price: 367
